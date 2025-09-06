@@ -1,5 +1,5 @@
 
-# Sigma embLabs 🚀
+# Embedded System Labs 🚀
 
 # Menu
 
@@ -245,5 +245,5 @@ If you have any thing would like to discuss or cooperate with me, please don't h
 - 📧 Email [Ho Thien Ai](mailto:thienaiho95@gmail.com)
 - 💼 LinkedIn [Thien Ai Ho](https://www.linkedin.com/in/thien-ai-ho/)
 
-# Back to home
+# Home Page
 🏠 [Home](README.md)
