@@ -2,11 +2,11 @@
 
 # Menu
 
-🏠 [Home](/README.md) | 
-🚀 [Embedded Systems](/embedded-systems/README.md) |
-🔨 [Development Boards](/development-boards/README.md) |
-🎓 [Training Courses](/training-courses/README.md) |
-📚 [Documents](/docs/README.md)
+🏠 [Home](https://embesyslabs.github.io/) | 
+🚀 [Embedded Systems](https://embesyslabs.github.io/embedded-systems/) |
+🔨 [Development Boards](https://embesyslabs.github.io/development-boards/) |
+🎓 [Training Courses](https://embesyslabs.github.io/training-courses/) |
+📚 [Documents](https://embesyslabs.github.io/docs/)
 
 # Embedded Systems
 
@@ -19,9 +19,9 @@
 
 ## Explore the topics
 Explore the embedded systems topics below 👇:
-1. [Basic embedded C demo using Stm32f103c6](/embedded-systems/stm32f103c6-demo/README.md)
-2. [Overview and practices for data types in embedded C](/embedded-systems/embedded-c-data-types/README.md)
-3. [Struct and Union data type in embedded C](/embedded-systems/struct-union-data-types/README.md)
+1. [Basic embedded C demo using Stm32f103c6](https://embesyslabs.github.io/embedded-systems/stm32f103c6-demo/)
+2. [Overview and practices for data types in embedded C](https://embesyslabs.github.io/embedded-systems/embedded-c-data-types/)
+3. [Struct and Union data type in embedded C](https://embesyslabs.github.io/embedded-systems/struct-union-data-types/)
 
 # Repositories
 🚀 [My Repositories](https://github.com/embesyslabs)
@@ -32,4 +32,4 @@ If you have any thing would like to discuss or cooperate with me, please don't h
 - 💼 LinkedIn [Thien Ai Ho](https://www.linkedin.com/in/thien-ai-ho/)
 
 # Home Page
-🏠 [Home](/README.md)
+🏠 [Home](https://embesyslabs.github.io/)

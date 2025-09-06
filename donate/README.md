@@ -9,11 +9,11 @@
 
 # Menu
 
-🏠 [Home](/README.md) | 
-🚀 [Embedded Systems](/embedded-systems/README.md) |
-🔨 [Development Boards](/development-boards/README.md) |
-🎓 [Training Courses](/training-courses/README.md) |
-📚 [Documents](/docs/README.md)
+🏠 [Home](https://embesyslabs.github.io/) | 
+🚀 [Embedded Systems](https://embesyslabs.github.io/embedded-systems/) |
+🔨 [Development Boards](https://embesyslabs.github.io/development-boards/) |
+🎓 [Training Courses](https://embesyslabs.github.io/training-courses/) |
+📚 [Documents](https://embesyslabs.github.io/docs/)
 
 # Embedded Systems
 
@@ -32,4 +32,4 @@ If you have any thing would like to discuss or cooperate with me, please don't h
 - 💼 LinkedIn [Thien Ai Ho](https://www.linkedin.com/in/thien-ai-ho/)
 
 # Home Page
-🏠 [Home](/README.md)
+🏠 [Home](https://embesyslabs.github.io/)

@@ -4,10 +4,10 @@
 # Menu
 
 🏠 [Home](README.md) | 
-🚀 [Embedded Systems](embedded-systems/README.md) |
-🔨 [Development Boards](development-boards/README.md) |
-🎓 [Training Courses](training-courses/README.md) |
-📚 [Documents](docs/README.md)
+🚀 [Embedded Systems](embedded-systems/) |
+🔨 [Development Boards](development-boards/) |
+🎓 [Training Courses](training-courses/) |
+📚 [Documents](docs/)
 
 # Struct and Union Data Types
 
@@ -235,7 +235,7 @@ typedef struct __attribute__((packed)) {
 🚀 You can use this [demo project](https://github.com/embesyslabs/demo-projects/tree/main/struct-union-data-types/source-code) to experiment further and deepen your understanding of struct and union data types.
 
 # Explore More Topics
-|[👈 Previous](/embedded-systems/embedded-c-data-types/README.md) | [Next 👉](/embedded-systems/README.md)|
+|[👈 Previous](https://embesyslabs.github.io/embedded-systems/embedded-c-data-types/) | [Next 👉](https://embesyslabs.github.io/embedded-systems/)|
 
 # Repositories
 🚀 [My Repositories](https://github.com/embesyslabs)

@@ -2,11 +2,11 @@
 
 # Menu
 
-🏠 [Home](/README.md) | 
-🚀 [Embedded Systems](/embedded-systems/README.md) |
-🔨 [Development Boards](/development-boards/README.md) |
-🎓 [Training Courses](/training-courses/README.md) |
-📚 [Documents](/docs/README.md)
+🏠 [Home](https://embesyslabs.github.io/) | 
+🚀 [Embedded Systems](https://embesyslabs.github.io/embedded-systems/) |
+🔨 [Development Boards](https://embesyslabs.github.io/development-boards/) |
+🎓 [Training Courses](https://embesyslabs.github.io/training-courses/) |
+📚 [Documents](https://embesyslabs.github.io/docs/)
 
 # STM32F103C6 Blinky Demo Project
 
@@ -32,7 +32,7 @@
 🚀 [This example](/topics/01-stm32f103c6-demo/source-code/) is ideal for learning the fundamentals of embedded software development and getting hands-on experience with STM32 microcontrollers.
 
 # Explore More Topics
-|[👈 Previous](/embedded-systems/README.md) | [Next 👉](/embedded-systems/embedded-c-data-types/README.md)|
+|[👈 Previous](https://embesyslabs.github.io/embedded-systems/) | [Next 👉](https://embesyslabs.github.io/embedded-systems/embedded-c-data-types/)|
 
 # Repositories
 🚀 [My Repositories](https://github.com/embesyslabs)
