@@ -3,11 +3,11 @@
 
 # Menu
 
-🏠 [Home](README.md) | 
-🚀 [Embedded Systems](embedded-systems/) |
-🔨 [Development Boards](development-boards/) |
-🎓 [Training Courses](training-courses/) |
-📚 [Documents](docs/)
+🏠 [Home](https://embesyslabs.github.io/) | 
+🚀 [Embedded Systems](https://embesyslabs.github.io/embedded-systems/) |
+🔨 [Development Boards](https://embesyslabs.github.io/development-boards/) |
+🎓 [Training Courses](https://embesyslabs.github.io/training-courses/) |
+📚 [Documents](https://embesyslabs.github.io/docs/)
 
 # Struct and Union Data Types
 
@@ -246,4 +246,4 @@ If you have any thing would like to discuss or cooperate with me, please don't h
 - 💼 LinkedIn [Thien Ai Ho](https://www.linkedin.com/in/thien-ai-ho/)
 
 # Home Page
-🏠 [Home](README.md)
+🏠 [Home](https://embesyslabs.github.io/)
