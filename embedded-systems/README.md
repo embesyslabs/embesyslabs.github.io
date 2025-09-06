@@ -1,11 +1,4 @@
-
-# Embedded System Labs 🚀
-
-🚀 Welcome to Embedded System Labs! This blog is dedicated to sharing knowledge and practical experience in embedded software programming, covering topics from basic concepts to advanced techniques. Whether you are a beginner looking to understand the fundamentals or an experienced developer seeking deeper insights, you will find articles, tutorials, and project examples designed to help you grow your skills in embedded systems development.
-
-<!-- Images Placeholder -->
-<img src="imgs/embesyslabs.png" alt="embesyslabs"/>
-<!-- Add more images as needed -->
+# Sigma embLabs 🚀
 
 # Menu
 
@@ -16,16 +9,19 @@
 📚 [Documents](/docs/README.md)
 
 # Embedded Systems
+
+🎯 Welcome to the Embedded Systems section of Embedded System Labs! Here, I will share a comprehensive journey through the world of embedded systems, starting from the fundamental concepts and progressing to advanced techniques and applications. Whether you are new to embedded development or looking to deepen your expertise, you will find practical guides, tutorials, and project examples.
+
+<!-- Images Placeholder -->
+<img src="imgs/embedded-systems.png" alt="Embedded Systems"/>
+<!-- Add more images as needed -->
+
+
+## Explore the topics
 Explore the embedded systems topics below 👇:
 1. [Basic embedded C demo using Stm32f103c6](/embedded-systems/stm32f103c6-demo/README.md)
 2. [Overview and practices for data types in embedded C](/embedded-systems/embedded-c-data-types/README.md)
 3. [Struct and Union data type in embedded C](/embedded-systems/struct-union-data-types/README.md)
-
-# Development Boards
-
-# Training Courses
-
-# Documents
 
 # Repositories
 🚀 [My Repositories](https://github.com/embesyslabs)
