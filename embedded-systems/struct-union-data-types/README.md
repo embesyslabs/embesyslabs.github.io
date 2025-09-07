@@ -232,7 +232,12 @@ typedef struct __attribute__((packed)) {
 <img src="imgs/sufficient-placing.png" alt="Removing Padding Bytes in Memory Layout"/>
 <!-- Add more images as needed -->
 
+
 🚀 You can use this [demo project](https://github.com/embesyslabs/demo-projects/tree/main/struct-union-data-types/source-code) to experiment further and deepen your understanding of struct and union data types.
+
+- 🔨 Development Boards: [STM32F103 Blue Pill Development Board](https://embesyslabs.github.io/development-toolbox/boards/)
+
+- 🔧 Tools: [Keil uVision](https://embesyslabs.github.io/development-toolbox/tools/)
 
 # Explore More Topics
 |[👈 Previous](https://embesyslabs.github.io/embedded-systems/embedded-c-data-types/) | [Next 👉](https://embesyslabs.github.io/embedded-systems/)|
