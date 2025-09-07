@@ -12,9 +12,15 @@
 
 🎯 Embedded C programming relies on a variety of data types to efficiently manage memory and interact with hardware. Understanding these data types is essential for writing reliable and portable embedded software.
 
+## Table of Contents
+1. [Common Data Types in C](#common-data-types-in-c)
+2. [Key Points When Using Data Types in Embedded Systems](#key-points-when-using-data-types-in-embedded-systems)
+
 <!-- Images Placeholder -->
 <img src="imgs/embedded-c-data-types.png" alt="Embedded C Data Types"/>
 <!-- Add more images as needed -->
+
+
 
 ## Common Data Types in C
 

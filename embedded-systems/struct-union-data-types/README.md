@@ -21,6 +21,28 @@
 
 💡 Both struct and union play a vital role in embedded applications, offering flexibility, improved code readability, and efficient memory management for handling diverse data requirements.
 
+## Table of Contents
+- [Struct Data Type](#struct-data-type)
+	- [Key Points](#key-points)
+	- [Use Cases](#use-cases)
+	- [Declaration](#declaration)
+	- [Initialization](#initialization)
+	- [Modification](#modification)
+- [Union Data Type](#union-data-type)
+	- [Key Points](#key-points-1)
+	- [Use Cases](#use-cases-1)
+	- [Declaration](#declaration-1)
+	- [Initialization](#initialization-1)
+	- [Modification](#modification-1)
+- [Demo Project](#demo-project)
+	- [How to calculate the size of struct and union data types?](#how-to-calculate-the-size-of-struct-and-union-data-types)
+	- [Initialize the struct variable](#initialize-the-struct-variable)
+	- [Modify struct members](#modify-struct-members)
+	- [Modify union members](#modify-union-members)
+	- [Padding bytes for aligment](#padding-bytes-for-aligment)
+		- [Padding bytes in microcontroller memory layout](#padding-bytes-in-microcontroller-memory-layout)
+		- [How to remove padding bytes to save memory?](#how-to-remove-padding-bytes-to-save-memory)
+
 ## Struct Data Type
 ### Key Points
 🔑 Here are the key points of the struct data type in C:
