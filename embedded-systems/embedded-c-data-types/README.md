@@ -4,7 +4,7 @@
 
 🏠 [Home](https://embesyslabs.github.io/) | 
 🚀 [Embedded Systems](https://embesyslabs.github.io/embedded-systems/) |
-🔨 [Development Boards](https://embesyslabs.github.io/development-boards/) |
+🧰 [Development Toolbox](https://embesyslabs.github.io/development-toolbox/) |
 🎓 [Training Courses](https://embesyslabs.github.io/training-courses/) |
 📚 [Documents](https://embesyslabs.github.io/docs/)
 
@@ -88,7 +88,7 @@ const uint8_t EmbeddedC_DataSizeInBytes_u8[] = {
 
 👉 Actual data type sizes measured in the STM32F103Cx embedded system:
 <!-- Images Placeholder -->
-<img src="img/data-size-debug-view.png" alt="Data Size in Embedded System"/>
+<img src="imgs/data-size-debug-view.png" alt="Data Size in Embedded System"/>
 <!-- Add more images as needed -->
 
 # Explore More Topics

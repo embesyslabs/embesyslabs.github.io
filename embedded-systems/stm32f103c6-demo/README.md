@@ -4,7 +4,7 @@
 
 🏠 [Home](https://embesyslabs.github.io/) | 
 🚀 [Embedded Systems](https://embesyslabs.github.io/embedded-systems/) |
-🔨 [Development Boards](https://embesyslabs.github.io/development-boards/) |
+🧰 [Development Toolbox](https://embesyslabs.github.io/development-toolbox/) |
 🎓 [Training Courses](https://embesyslabs.github.io/training-courses/) |
 📚 [Documents](https://embesyslabs.github.io/docs/)
 

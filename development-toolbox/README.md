@@ -1,11 +1,4 @@
-
 # Embedded System Labs 🚀
-
-🚀 Welcome to Embedded System Labs! This blog is dedicated to sharing knowledge and practical experience in embedded software programming, covering topics from basic concepts to advanced techniques. Whether you are a beginner looking to understand the fundamentals or an experienced developer seeking deeper insights, you will find articles, tutorials, and project examples designed to help you grow your skills in embedded systems development.
-
-<!-- Images Placeholder -->
-<img src="/imgs/embesyslabs.png" alt="embesyslabs"/>
-<!-- Add more images as needed -->
 
 # Menu
 
@@ -15,13 +8,18 @@
 🎓 [Training Courses](https://embesyslabs.github.io/training-courses/) |
 📚 [Documents](https://embesyslabs.github.io/docs/)
 
-# Embedded Systems
-
 # Development Toolbox
 
-# Training Courses
+🎯 The Development Toolbox is your gateway to essential resources for embedded systems projects. Here you'll find information on a wide range of development boards and tools that help you design, build, and debug embedded applications. Whether you're choosing hardware or setting up your software environment, this section provides practical guidance and recommendations to accelerate your development journey.
 
-# Documents
+<!-- Images Placeholder -->
+<img src="imgs/development-toolbox.png" alt="development toolbox"/>
+<!-- Add more images as needed -->
+
+## Development Boards
+🔨 [Development Boards](https://embesyslabs.github.io/development-toolbox/boards/)
+## Development Tools
+🔧 [Development Tools](https://embesyslabs.github.io/development-toolbox/tools/)
 
 # Repositories
 🚀 [My Repositories](https://github.com/embesyslabs)
