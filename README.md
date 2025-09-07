@@ -11,17 +11,23 @@
 
 🏠 [Home](https://embesyslabs.github.io/) | 
 🚀 [Embedded Systems](https://embesyslabs.github.io/embedded-systems/) |
-🔨 [Development Boards](https://embesyslabs.github.io/development-boards/) |
+🧰 [Development Toolbox](https://embesyslabs.github.io/development-toolbox/) |
 🎓 [Training Courses](https://embesyslabs.github.io/training-courses/) |
 📚 [Documents](https://embesyslabs.github.io/docs/)
 
 # Embedded Systems
+
 Explore the embedded systems topics below 👇:
 1. [Basic embedded C demo using Stm32f103c6](https://embesyslabs.github.io/embedded-systems/stm32f103c6-demo/)
 2. [Overview and practices for data types in embedded C](https://embesyslabs.github.io/embedded-systems/embedded-c-data-types/)
 3. [Struct and Union data type in embedded C](https://embesyslabs.github.io/embedded-systems/struct-union-data-types/)
 
-# Development Boards
+# Development Toolbox
+
+👉 Discover essential resources in the Development Toolbox, including development boards and tools to help you design, build, and debug embedded applications.
+
+- 🔨 [Development Boards](https://embesyslabs.github.io/development-toolbox/boards/)
+- 🔧 [Development Tools](https://embesyslabs.github.io/development-toolbox/tools/)
 
 # Training Courses
 

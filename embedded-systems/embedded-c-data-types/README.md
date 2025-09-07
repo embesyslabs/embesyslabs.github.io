@@ -4,7 +4,7 @@
 
 🏠 [Home](https://embesyslabs.github.io/) | 
 🚀 [Embedded Systems](https://embesyslabs.github.io/embedded-systems/) |
-🔨 [Development Boards](https://embesyslabs.github.io/development-boards/) |
+🧰 [Development Toolbox](https://embesyslabs.github.io/development-toolbox/) |
 🎓 [Training Courses](https://embesyslabs.github.io/training-courses/) |
 📚 [Documents](https://embesyslabs.github.io/docs/)
 
@@ -12,9 +12,15 @@
 
 🎯 Embedded C programming relies on a variety of data types to efficiently manage memory and interact with hardware. Understanding these data types is essential for writing reliable and portable embedded software.
 
+## Table of Contents
+1. [Common Data Types in C](#common-data-types-in-c)
+2. [Key Points When Using Data Types in Embedded Systems](#key-points-when-using-data-types-in-embedded-systems)
+
 <!-- Images Placeholder -->
 <img src="imgs/embedded-c-data-types.png" alt="Embedded C Data Types"/>
 <!-- Add more images as needed -->
+
+
 
 ## Common Data Types in C
 
@@ -58,6 +64,8 @@ To design robust embedded software using data types, the following key points sh
 🚀 You can use this [demo project](https://github.com/embesyslabs/demo-projects/tree/main/embedded-c-data-types/source-code) to gain a practical understanding of data types in embedded software. In this project, I demonstrate:
 - The size of C standard data types, which depends on the microcontroller (STM32F103Cx) architecture and the compiler (Keil Arm).
 - The standard data types commonly used in embedded software.
+- 🔨 Development Boards: [STM32F103 Blue Pill Development Board](https://embesyslabs.github.io/development-toolbox/boards/)
+- 🔧 Tools: [Keil uVision](https://embesyslabs.github.io/development-toolbox/tools/)
 
 👇 Below, you will find examples from the project source code that illustrate the size of C standard data types and common used embedded C data types.
 
@@ -88,7 +96,7 @@ const uint8_t EmbeddedC_DataSizeInBytes_u8[] = {
 
 👉 Actual data type sizes measured in the STM32F103Cx embedded system:
 <!-- Images Placeholder -->
-<img src="img/data-size-debug-view.png" alt="Data Size in Embedded System"/>
+<img src="imgs/data-size-debug-view.png" alt="Data Size in Embedded System"/>
 <!-- Add more images as needed -->
 
 # Explore More Topics

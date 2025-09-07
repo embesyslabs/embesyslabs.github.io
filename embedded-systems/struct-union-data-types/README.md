@@ -5,7 +5,7 @@
 
 🏠 [Home](https://embesyslabs.github.io/) | 
 🚀 [Embedded Systems](https://embesyslabs.github.io/embedded-systems/) |
-🔨 [Development Boards](https://embesyslabs.github.io/development-boards/) |
+🧰 [Development Toolbox](https://embesyslabs.github.io/development-toolbox/) |
 🎓 [Training Courses](https://embesyslabs.github.io/training-courses/) |
 📚 [Documents](https://embesyslabs.github.io/docs/)
 
@@ -20,6 +20,28 @@
 💡 A union, on the other hand, provides a way to store different data types in the same memory location. All members of a union share the same memory, so only one value can be stored at a time. This is particularly useful in memory-constrained embedded systems where optimizing resource usage is critical.
 
 💡 Both struct and union play a vital role in embedded applications, offering flexibility, improved code readability, and efficient memory management for handling diverse data requirements.
+
+## Table of Contents
+- [Struct Data Type](#struct-data-type)
+	- [Key Points](#key-points)
+	- [Use Cases](#use-cases)
+	- [Declaration](#declaration)
+	- [Initialization](#initialization)
+	- [Modification](#modification)
+- [Union Data Type](#union-data-type)
+	- [Key Points](#key-points-1)
+	- [Use Cases](#use-cases-1)
+	- [Declaration](#declaration-1)
+	- [Initialization](#initialization-1)
+	- [Modification](#modification-1)
+- [Demo Project](#demo-project)
+	- [How to calculate the size of struct and union data types?](#how-to-calculate-the-size-of-struct-and-union-data-types)
+	- [Initialize the struct variable](#initialize-the-struct-variable)
+	- [Modify struct members](#modify-struct-members)
+	- [Modify union members](#modify-union-members)
+	- [Padding bytes for aligment](#padding-bytes-for-aligment)
+		- [Padding bytes in microcontroller memory layout](#padding-bytes-in-microcontroller-memory-layout)
+		- [How to remove padding bytes to save memory?](#how-to-remove-padding-bytes-to-save-memory)
 
 ## Struct Data Type
 ### Key Points
@@ -232,7 +254,12 @@ typedef struct __attribute__((packed)) {
 <img src="imgs/sufficient-placing.png" alt="Removing Padding Bytes in Memory Layout"/>
 <!-- Add more images as needed -->
 
+
 🚀 You can use this [demo project](https://github.com/embesyslabs/demo-projects/tree/main/struct-union-data-types/source-code) to experiment further and deepen your understanding of struct and union data types.
+
+- 🔨 Development Boards: [STM32F103 Blue Pill Development Board](https://embesyslabs.github.io/development-toolbox/boards/)
+
+- 🔧 Tools: [Keil uVision](https://embesyslabs.github.io/development-toolbox/tools/)
 
 # Explore More Topics
 |[👈 Previous](https://embesyslabs.github.io/embedded-systems/embedded-c-data-types/) | [Next 👉](https://embesyslabs.github.io/embedded-systems/)|
