@@ -1,12 +1,12 @@
-# Jet Studio 🚀
+# Jet Station 🚀
 
 # Menu
 
-🏠 [Home](https://jet-studio.github.io/) | 
-🚀 [Embedded Systems](https://jet-studio.github.io/embedded-systems/) |
-🧰 [Development Toolbox](https://jet-studio.github.io/development-toolbox/) |
-🎓 [Training Courses](https://jet-studio.github.io/training-courses/) |
-📚 [Documents](https://jet-studio.github.io/docs/)
+🏠 [Home](https://jet-station.github.io/) | 
+🚀 [Embedded Systems](https://jet-station.github.io/embedded-systems/) |
+🧰 [Development Toolbox](https://jet-station.github.io/development-toolbox/) |
+🎓 [Training Courses](https://jet-station.github.io/training-courses/) |
+📚 [Documents](https://jet-station.github.io/docs/)
 
 # STM32F103C6 Blinky Demo Project
 
@@ -30,14 +30,14 @@
 <!-- Add more images as needed -->
 
 🚀 [This example](/topics/01-stm32f103c6-demo/source-code/) is ideal for learning the fundamentals of embedded software development and getting hands-on experience with STM32 microcontrollers.
-- 🔨 Development Boards: [STM32F103 Blue Pill Development Board](https://jet-studio.github.io/development-toolbox/boards/)
-- 🔧 Tools: [Keil uVision](https://jet-studio.github.io/development-toolbox/tools/)
+- 🔨 Development Boards: [STM32F103 Blue Pill Development Board](https://jet-station.github.io/development-toolbox/boards/)
+- 🔧 Tools: [Keil uVision](https://jet-station.github.io/development-toolbox/tools/)
 
 # Explore More Topics
-|[👈 Previous](https://jet-studio.github.io/embedded-systems/) | [Next 👉](https://jet-studio.github.io/embedded-systems/embedded-c-data-types/)|
+|[👈 Previous](https://jet-station.github.io/embedded-systems/) | [Next 👉](https://jet-station.github.io/embedded-systems/embedded-c-data-types/)|
 
 # Repositories
-🚀 [My Repositories](https://github.com/jet-studio)
+🚀 [My Repositories](https://github.com/jet-station)
 
 # Contact & Discussion
 If you have any thing would like to discuss or cooperate with me, please don't hesitate to contact me via:
@@ -45,4 +45,4 @@ If you have any thing would like to discuss or cooperate with me, please don't h
 - 💼 LinkedIn [Thien Ai Ho](https://www.linkedin.com/in/thien-ai-ho/)
 
 # Home Page
-🏠 [Home](https://jet-studio.github.io/)
+🏠 [Home](https://jet-station.github.io/)
