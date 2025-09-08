@@ -235,8 +235,8 @@ One effective way to reduce padding bytes is to arrange struct members from larg
 ```C
 typedef struct {
 	uint16_t width_u16;
-	uint32_t area_u32;
 	uint16_t height_u16;
+	uint32_t area_u32;
 } Rectangle_st;
 ```
 > [!TIP]
