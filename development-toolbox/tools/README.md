@@ -1,12 +1,12 @@
-# Jet Studio 🚀
+# Jet Station 🚀
 
 # Menu
 
-🏠 [Home](https://jet-studio.github.io/) | 
-🚀 [Embedded Systems](https://jet-studio.github.io/embedded-systems/) |
-🧰 [Development Toolbox](https://jet-studio.github.io/development-toolbox/) |
-🎓 [Training Courses](https://jet-studio.github.io/training-courses/) |
-📚 [Documents](https://jet-studio.github.io/docs/)
+🏠 [Home](https://jet-station.github.io/) | 
+🚀 [Embedded Systems](https://jet-station.github.io/embedded-systems/) |
+🧰 [Development Toolbox](https://jet-station.github.io/development-toolbox/) |
+🎓 [Training Courses](https://jet-station.github.io/training-courses/) |
+📚 [Documents](https://jet-station.github.io/docs/)
 
 # Development Tools
 
@@ -60,7 +60,7 @@
 - Troubleshooting embedded hardware and firmware issues
 
 # Repositories
-🚀 [My Repositories](https://github.com/jet-studio)
+🚀 [My Repositories](https://github.com/jet-station)
 
 # Contact & Discussion
 If you have any thing would like to discuss or cooperate with me, please don't hesitate to contact me via:
@@ -68,4 +68,4 @@ If you have any thing would like to discuss or cooperate with me, please don't h
 - 💼 LinkedIn [Thien Ai Ho](https://www.linkedin.com/in/thien-ai-ho/)
 
 # Home Page
-🏠 [Home](https://jet-studio.github.io/)
+🏠 [Home](https://jet-station.github.io/)

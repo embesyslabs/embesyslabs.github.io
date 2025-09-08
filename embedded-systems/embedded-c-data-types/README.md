@@ -1,12 +1,12 @@
-# Jet Studio 🚀
+# Jet Station 🚀
 
 # Menu
 
-🏠 [Home](https://jet-studio.github.io/) | 
-🚀 [Embedded Systems](https://jet-studio.github.io/embedded-systems/) |
-🧰 [Development Toolbox](https://jet-studio.github.io/development-toolbox/) |
-🎓 [Training Courses](https://jet-studio.github.io/training-courses/) |
-📚 [Documents](https://jet-studio.github.io/docs/)
+🏠 [Home](https://jet-station.github.io/) | 
+🚀 [Embedded Systems](https://jet-station.github.io/embedded-systems/) |
+🧰 [Development Toolbox](https://jet-station.github.io/development-toolbox/) |
+🎓 [Training Courses](https://jet-station.github.io/training-courses/) |
+📚 [Documents](https://jet-station.github.io/docs/)
 
 # Embedded C Data Types
 
@@ -61,11 +61,11 @@ To design robust embedded software using data types, the following key points sh
 - To clearly indicate how many bits are used in memory, I use the standard integer type equivalent to `unsigned char`, which is `uint8_t`.
 - Finally, when naming the variable to store age, I use `age_u8` to make its type and purpose clear.
 
-🚀 You can use this [demo project](https://github.com/jet-studio/demo-projects/tree/main/embedded-c-data-types/source-code) to gain a practical understanding of data types in embedded software. In this project, I demonstrate:
+🚀 You can use this [demo project](https://github.com/jet-station/demo-projects/tree/main/embedded-c-data-types/source-code) to gain a practical understanding of data types in embedded software. In this project, I demonstrate:
 - The size of C standard data types, which depends on the microcontroller (STM32F103Cx) architecture and the compiler (Keil Arm).
 - The standard data types commonly used in embedded software.
-- 🔨 Development Boards: [STM32F103 Blue Pill Development Board](https://jet-studio.github.io/development-toolbox/boards/)
-- 🔧 Tools: [Keil uVision](https://jet-studio.github.io/development-toolbox/tools/)
+- 🔨 Development Boards: [STM32F103 Blue Pill Development Board](https://jet-station.github.io/development-toolbox/boards/)
+- 🔧 Tools: [Keil uVision](https://jet-station.github.io/development-toolbox/tools/)
 
 👇 Below, you will find examples from the project source code that illustrate the size of C standard data types and common used embedded C data types.
 
@@ -100,10 +100,10 @@ const uint8_t EmbeddedC_DataSizeInBytes_u8[] = {
 <!-- Add more images as needed -->
 
 # Explore More Topics
-|[👈 Previous](https://jet-studio.github.io/embedded-systems/stm32f103c6-demo/) | [Next 👉](https://jet-studio.github.io/embedded-systems/struct-union-data-types/)|
+|[👈 Previous](https://jet-station.github.io/embedded-systems/stm32f103c6-demo/) | [Next 👉](https://jet-station.github.io/embedded-systems/struct-union-data-types/)|
 
 # Repositories
-🚀 [My Repositories](https://github.com/jet-studio)
+🚀 [My Repositories](https://github.com/jet-station)
 
 # Contact & Discussion
 If you have any thing would like to discuss or cooperate with me, please don't hesitate to contact me via:
@@ -111,4 +111,4 @@ If you have any thing would like to discuss or cooperate with me, please don't h
 - 💼 LinkedIn [Thien Ai Ho](https://www.linkedin.com/in/thien-ai-ho/)
 
 # Home Page
-🏠 [Home](https://jet-studio.github.io/)
+🏠 [Home](https://jet-station.github.io/)
