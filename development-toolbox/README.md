@@ -13,7 +13,7 @@
 🎯 The Development Toolbox is your gateway to essential resources for embedded systems projects. Here you'll find information on a wide range of development boards and tools that help you design, build, and debug embedded applications. Whether you're choosing hardware or setting up your software environment, this section provides practical guidance and recommendations to accelerate your development journey.
 
 <!-- Images Placeholder -->
-<img src="imgs/Development-Toolbox.png" alt="Development Toolbox"/>
+<img src="imgs/development-toolbox.png" alt="Development Toolbox"/>
 <!-- Add more images as needed -->
 
 ## Development Boards

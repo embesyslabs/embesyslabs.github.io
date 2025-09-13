@@ -13,7 +13,7 @@
 🎯 Welcome to the Embedded Systems section of Embedded System Labs! Here, I will share a comprehensive journey through the world of embedded systems, starting from the fundamental concepts and progressing to advanced techniques and applications. Whether you are new to embedded development or looking to deepen your expertise, you will find practical guides, tutorials, and project examples.
 
 <!-- Images Placeholder -->
-<img src="imgs/Embedded-Systems.png" alt="Embedded Systems"/>
+<img src="imgs/embedded-systems.png" alt="Embedded Systems"/>
 <!-- Add more images as needed -->
 
 
@@ -22,6 +22,7 @@ Explore the embedded systems topics below 👇:
 1. [Basic embedded C demo using Stm32f103c6](https://jet-station.github.io/embedded-systems/stm32f103c6-demo/)
 2. [Overview and practices for data types in embedded C](https://jet-station.github.io/embedded-systems/embedded-c-data-types/)
 3. [Struct and Union data type in embedded C](https://jet-station.github.io/embedded-systems/struct-union-data-types/)
+4. [Embedded C Function: Concepts, Usage, Call Stack and Best Practices](https://jet-station.github.io/embedded-systems/embedded-c-function/)
 
 # Repositories
 🚀 [My Repositories](https://github.com/jet-station)
