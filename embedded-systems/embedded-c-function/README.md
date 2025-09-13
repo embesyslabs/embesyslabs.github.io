@@ -33,6 +33,7 @@ In this article, I will address these crucial concerns for you.
 Example of function declaration, defintion and function call:
 
 - Declaration:
+
 ```C
 /**
   * @brief  Reset counter value
@@ -43,6 +44,7 @@ void Counter_resetCounter(void);
 ```
 
 - Definition:
+
 ```C
 /**
   * @brief  Reset counter value
@@ -55,6 +57,7 @@ void Counter_resetCounter(void)
 }
 ```
 - Function call:
+
 ```C
 Counter_resetCounter();
 ```
