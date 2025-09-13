@@ -13,7 +13,7 @@
 🎯 Welcome to the Embedded Systems section of Embedded System Labs! Here, I will share a comprehensive journey through the world of embedded systems, starting from the fundamental concepts and progressing to advanced techniques and applications. Whether you are new to embedded development or looking to deepen your expertise, you will find practical guides, tutorials, and project examples.
 
 <!-- Images Placeholder -->
-<img src="imgs/embedded-systems.png" alt="Embedded Systems"/>
+<img src="imgs/Embedded-Systems.png" alt="Embedded Systems"/>
 <!-- Add more images as needed -->
 
 
